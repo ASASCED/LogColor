@@ -1,0 +1,31 @@
+{
+  "name": "logcolor",
+  "version": "1.0.0",
+  "description": "Log para consola personalizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASASCED/LogColor.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "color",
+    "custom"
+  ],
+  "author": "Jesus Jimenez Cordero <jesus_heaven117@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASASCED/LogColor/issues"
+  },
+  "homepage": "https://github.com/ASASCED/LogColor#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "sinon": "^7.4.1",
+    "sinon-chai": "^3.3.0"
+  }
+}
